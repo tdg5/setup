@@ -7,7 +7,7 @@ declare -A plugins
 plugins=( \
   ["colorschemes"]="https://github.com/flazz/vim-colorschemes.git" \
   ["easy-motion"]="https://github.com/Lokaltog/vim-easymotion.git" \
-  ["git-gutter"]="git://github.com/airblade/vim-gitgutter.git" \
+  ["git-gutter"]="https://github.com/airblade/vim-gitgutter.git" \
   ["git-pathogen"]="https://github.com/tpope/vim-pathogen.git" \
   ["matchit"]="https://github.com/vim-scripts/matchit.zip.git" \
   ["nerdcommenter"]="https://github.com/preservim/nerdcommenter.git" \
@@ -21,6 +21,7 @@ plugins=( \
   ["vim-obession"]="https://github.com/tpope/vim-obsession.git" \
   ["vim-repeat"]="https://github.com/tpope/vim-repeat.git" \
   ["vim-surround"]="https://github.com/tpope/vim-surround.git" \
+  ["vim-terraform"]="https://github.com/hashivim/vim-terraform.git" \
   ["vim-trailing-whitespace"]="https://github.com/bronson/vim-trailing-whitespace.git" \
   ["you-complete-me"]="https://github.com/ycm-core/YouCompleteMe.git" \
 )
