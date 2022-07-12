@@ -7,6 +7,7 @@ fi
 
 apt-get install -y \
   git \
+  git-lfs \
   htop \
   net-tools \
   unzip
