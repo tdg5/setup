@@ -1,0 +1,1 @@
+../share/001200_vim_plugins.sh

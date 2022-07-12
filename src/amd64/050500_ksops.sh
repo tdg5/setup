@@ -1,0 +1,1 @@
+../share/050500_ksops.sh

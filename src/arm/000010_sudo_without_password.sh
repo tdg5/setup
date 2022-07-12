@@ -1,0 +1,1 @@
+../share/000010_sudo_without_password.sh

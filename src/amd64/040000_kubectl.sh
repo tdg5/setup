@@ -1,0 +1,1 @@
+../share/040000_kubectl.sh
