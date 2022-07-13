@@ -9,5 +9,6 @@ apt-get install -y \
   git \
   git-lfs \
   htop \
+  jq \
   net-tools \
   unzip
