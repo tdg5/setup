@@ -11,4 +11,5 @@ apt-get install -y \
   htop \
   jq \
   net-tools \
+  tree \
   unzip
